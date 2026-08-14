@@ -1,0 +1,26 @@
+{
+  "name": "viz",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "homepage": "https://jubilancy.github.io/viz",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "graphology": "^0.25.4",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "sigma": "^3.0.0",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.0"
+  }
+}

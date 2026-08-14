@@ -1,0 +1,107 @@
+tag,group
+Music,
+Books,
+Film,
+Rock,Music
+Punk,Rock
+Post-Punk,Punk
+Indie Rock,Rock
+Shoegaze,Indie Rock
+Dream Pop,Shoegaze
+Garage Rock,Rock
+Psychedelic Rock,Rock
+Prog Rock,Rock
+Metal,Music
+Black Metal,Metal
+Doom Metal,Metal
+Death Metal,Metal
+Electronic,Music
+Ambient,Electronic
+Techno,Electronic
+House,Electronic
+IDM,Electronic
+Synthwave,Electronic
+Vaporwave,Synthwave
+Hip Hop,Music
+Boom Bap,Hip Hop
+Trap,Hip Hop
+Lo-fi Hip Hop,Hip Hop
+Jazz,Music
+Bebop,Jazz
+Cool Jazz,Jazz
+Free Jazz,Jazz
+Jazz Fusion,Jazz
+Folk,Music
+Folk Rock,Folk
+Singer-Songwriter,Folk
+Pop,Music
+Dream Pop,Pop
+Synth Pop,Pop
+Bedroom Pop,Pop
+Classical,Music
+Baroque,Classical
+Romantic Era,Classical
+Minimalism,Classical
+R&B,Music
+Neo-Soul,R&B
+Soul,R&B
+Fiction,Books
+Literary Fiction,Fiction
+Historical Fiction,Fiction
+Speculative Fiction,Fiction
+Science Fiction,Speculative Fiction
+Cyberpunk,Science Fiction
+Space Opera,Science Fiction
+Solarpunk,Science Fiction
+Fantasy,Speculative Fiction
+High Fantasy,Fantasy
+Urban Fantasy,Fantasy
+Dark Fantasy,Fantasy
+Horror,Fiction
+Gothic Horror,Horror
+Cosmic Horror,Horror
+Mystery,Fiction
+Detective Fiction,Mystery
+Noir,Mystery
+Thriller,Fiction
+Psychological Thriller,Thriller
+Romance,Fiction
+Contemporary Romance,Romance
+Nonfiction,Books
+Memoir,Nonfiction
+Essay Collection,Nonfiction
+Biography,Nonfiction
+Philosophy,Nonfiction
+Ethics,Philosophy
+Existentialism,Philosophy
+Poetry,Books
+Confessional Poetry,Poetry
+Prose Poetry,Poetry
+Classics,Books
+Modernist,Classics
+Gothic Literature,Classics
+Drama,Film
+Period Drama,Drama
+Coming of Age,Drama
+Comedy,Film
+Dark Comedy,Comedy
+Romantic Comedy,Comedy
+Horror,Film
+Slasher,Horror
+Psychological Horror,Horror
+Found Footage,Horror
+Sci-Fi,Film
+Dystopian,Sci-Fi
+Space Opera,Sci-Fi
+Thriller,Film
+Neo-Noir,Thriller
+Crime Thriller,Thriller
+Documentary,Film
+Nature Documentary,Documentary
+Music Documentary,Documentary
+Animation,Film
+Stop Motion,Animation
+Anime,Animation
+Arthouse,Film
+Surrealist Film,Arthouse
+New Wave Cinema,Arthouse
