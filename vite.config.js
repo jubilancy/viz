@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react';
 // then base should be '/viz/'
 export default defineConfig({
   plugins: [react()],
-  base: 'dataviz.glosse.me',
+  base: '/',
 });
